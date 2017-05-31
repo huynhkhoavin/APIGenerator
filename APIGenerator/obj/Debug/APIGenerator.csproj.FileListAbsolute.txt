@@ -1,0 +1,9 @@
+D:\MineCraft\APIGenerator\APIGenerator\bin\Debug\APIGenerator.exe.config
+D:\MineCraft\APIGenerator\APIGenerator\bin\Debug\APIGenerator.exe
+D:\MineCraft\APIGenerator\APIGenerator\bin\Debug\APIGenerator.pdb
+D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.csprojResolveAssemblyReference.cache
+D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.Form1.resources
+D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.Properties.Resources.resources
+D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.csproj.GenerateResource.Cache
+D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.exe
+D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.pdb
