@@ -7,3 +7,6 @@ D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.Properties.Resourc
 D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.csproj.GenerateResource.Cache
 D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.exe
 D:\MineCraft\APIGenerator\APIGenerator\obj\Debug\APIGenerator.pdb
+D:\Work\APIGenerator\APIGenerator\bin\Debug\APIGenerator.exe.config
+D:\Work\APIGenerator\APIGenerator\obj\Debug\APIGenerator.exe
+D:\Work\APIGenerator\APIGenerator\obj\Debug\APIGenerator.pdb
